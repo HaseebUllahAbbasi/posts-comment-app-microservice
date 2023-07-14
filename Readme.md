@@ -2,4 +2,7 @@
 
 - create post
 - add comment
-- no of comments
+- blocking comments
+- status based comments
+- Event Bus
+- Query Service
